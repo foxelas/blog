@@ -31,6 +31,7 @@ Make a gh-pages branch git checkout --orphan gh-pages
 -Run bundle update 
 -Update _config.yml
 -Add files, commit and push 
+-Check deployment from Github browser menu
 -Update the site with jekyll serve 
 
 Article format `YEAR-MONTH-DAY-title.MARKUP`
