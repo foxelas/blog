@@ -9,31 +9,31 @@ categories: jekyll update
 
 ## (Prequisites)
 
--install git https://git-scm.com/downloads
--install ruby https://www.ruby-lang.org/en/documentation/installation/
--install jekyll via bundler https://bundler.io/ 
+- install git https://git-scm.com/downloads
+- install ruby https://www.ruby-lang.org/en/documentation/installation/
+- install jekyll via bundler https://bundler.io/ 
 
 jekyll install list https://jekyllrb.com/docs/installation/ 
 
 ##Preparation 
--Create a new repository 
--Open Git Bash and cd to the repo 
--Make a docs dir  mkdir docs
+- Create a new repository 
+- Open Git Bash and cd to the repo 
+- Make a docs dir  mkdir docs
 OR 
 Make a gh-pages branch git checkout --orphan gh-pages 
--Run jekyll new . 
+- Run jekyll new . 
 (Needs to be an empty dir) 
--Open the Gemfile
--Modify to comment line gem "jekyll", "~>version"
--Modify to uncomment line with gem "github-pages", group: :jekyll_plugin 
--Modify to add gh-pages version from dependencies at https://pages.github.com/versions/ 
+- Open the Gemfile
+- Modify to comment line gem "jekyll", "~>version"
+- Modify to uncomment line with gem "github-pages", group: :jekyll_plugin 
+- Modify to add gh-pages version from dependencies at https://pages.github.com/versions/ 
     gem "github-pages", "~> 215", group: :jekyll_plugins
--Save and close Gemfile 
--Run bundle update 
--Update _config.yml
--Add files, commit and push 
--Check deployment from Github browser menu
--Update the site with jekyll serve 
+- Save and close Gemfile 
+- Run bundle update 
+- Update _config.yml
+- Add files, commit and push 
+- Check deployment from Github browser menu
+- Update the site with jekyll serve 
 
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
