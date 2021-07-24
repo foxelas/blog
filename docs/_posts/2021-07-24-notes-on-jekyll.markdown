@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Notes on Jekyll"
 date:   2021-07-24 22:24:55 +0900
 categories: jekyll update
 ---
 
-#Notes on jekyll site initialization: 
+# Notes on jekyll site initialization
 
-##(Prequisites)
+## (Prequisites)
+
 -install git https://git-scm.com/downloads
 -install ruby https://www.ruby-lang.org/en/documentation/installation/
 -install jekyll via bundler https://bundler.io/ 
