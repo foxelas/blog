@@ -7,7 +7,7 @@
 </head>
 <body>
 
-      <div>This is an html page test </div>
+      {{ content }}
 
 </body>
 </html>
