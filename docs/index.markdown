@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-# A cat trying stuff 
