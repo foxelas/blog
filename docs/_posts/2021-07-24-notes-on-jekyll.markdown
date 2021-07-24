@@ -33,6 +33,8 @@ jekyll install list https://jekyllrb.com/docs/installation/
 
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
+Syntax [here](https://www.markdownguide.org/basic-syntax/)
+
 --------------------------------------------
 
 {% highlight ruby %}
