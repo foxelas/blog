@@ -20,7 +20,7 @@
 
 title: "foxelas' blog page"
 description: "Write stuff and notes that interest me"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 domain: "foxelas.github.io"
 url: "https://foxelas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  foxelas
