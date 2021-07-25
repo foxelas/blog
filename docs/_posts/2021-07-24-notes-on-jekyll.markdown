@@ -31,6 +31,8 @@ jekyll install list https://jekyllrb.com/docs/installation/
 - Add files, commit and push 
 - Check deployment from Github browser menu
 - Update the site with jekyll serve 
+- Test locally with bundle exec jekyll serve 
+- View locally at [port 4000](http://localhost:4000)
 
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
