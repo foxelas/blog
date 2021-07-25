@@ -34,7 +34,7 @@ jekyll install list https://jekyllrb.com/docs/installation/
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
 For posts / articles: 
-	- Syntax [here](https://www.markdownguide.org/basic-syntax/)
+	- Syntax for [Markdown](https://www.markdownguide.org/basic-syntax/)
 
 For styling: 
 	- Dynamic content is provided with a language called [Liquid](https://shopify.github.io/liquid/)
