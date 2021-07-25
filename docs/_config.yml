@@ -24,9 +24,9 @@ url: https://foxelas.github.io # the base hostname & protocol for your site, e.g
 
 title: foxelas' blog page
 description: > # this means to ignore newlines until "twitter_username:"
-  Write stuff and notes that interest me.
-  Don't take the /blog seriously, 
-  instead focus on the info in the main domain.
+  Note keeping.
+#  Don't take the /blog seriously, 
+#  instead focus on the info in the main domain.
 
 # social links
 twitter_username: foxelas
