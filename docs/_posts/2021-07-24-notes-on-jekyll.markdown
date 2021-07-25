@@ -33,6 +33,7 @@ jekyll install list https://jekyllrb.com/docs/installation/
 
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
+Test html page at [/test](https://foxelas.github.io/blog/test)
 For posts / articles: 
 	- Syntax for [Markdown](https://www.markdownguide.org/basic-syntax/)
 
