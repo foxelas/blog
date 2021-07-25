@@ -18,12 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "foxelas' blog page"
-description: "Write stuff and notes that interest me"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-domain: "foxelas.github.io"
-url: "https://foxelas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /blog # the subpath of your site, e.g. /blog
+domain: foxelas.github.io
+url: https://foxelas.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+title: foxelas' blog page
+description: > # this means to ignore newlines until "twitter_username:"
+  Write stuff and notes that interest me.
+  Don't take the /blog subdomain seriously, 
+  instead focus on the info in the main domain.
+
+# social links
+twitter_username: foxelas
 github_username:  foxelas
+rss: rss
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+header_pages:
+ - about.html
 
 # Build settings
 theme: minima
