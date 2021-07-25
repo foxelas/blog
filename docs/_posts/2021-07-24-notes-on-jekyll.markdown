@@ -39,11 +39,10 @@ For posts / articles:
 
 For styling: 
 	- Dynamic content is provided with a language called [Liquid](https://shopify.github.io/liquid/)
-	- Variable "{{ variable " }} 
-	- Logic statements, loops "{% if statement " %} 
-	- To avoid printing whitespaces "{%- else " -%}
+	- Variable { { variable } } 
+	- Logic statements, loops { % if statement % } 
+	- To avoid printing whitespaces { % - else  - % }
 	
-
 --------------------------------------------
 
 {% highlight ruby %}
