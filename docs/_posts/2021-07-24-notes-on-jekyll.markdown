@@ -33,7 +33,15 @@ jekyll install list https://jekyllrb.com/docs/installation/
 
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
-Syntax [here](https://www.markdownguide.org/basic-syntax/)
+For posts / articles: 
+	- Syntax [here](https://www.markdownguide.org/basic-syntax/)
+
+For styling: 
+	- Dynamic content is provided with a language called [Liquid](https://shopify.github.io/liquid/)
+	- Variable "{{ variable " }} 
+	- Logic statements, loops "{% if statement " %} 
+	- To avoid printing whitespaces "{%- else " -%}
+	
 
 --------------------------------------------
 
