@@ -14,6 +14,7 @@ categories: jekyll update
 jekyll install list https://jekyllrb.com/docs/installation/ 
 
 # Preparation 
+
 - Create a new repository 
 - Open Git Bash and cd to the repo 
 - Make a docs dir  mkdir docs OR 
@@ -34,10 +35,11 @@ jekyll install list https://jekyllrb.com/docs/installation/
 Article format `YEAR-MONTH-DAY-title.MARKUP`
 
 Test html page at [/test](https://foxelas.github.io/blog/test)
-For posts / articles: 
+
+- For posts / articles: 
 	- Syntax for [Markdown](https://www.markdownguide.org/basic-syntax/)
 
-For styling: 
+- For styling: 
 	- Dynamic content is provided with a language called [Liquid](https://shopify.github.io/liquid/)
 	- Variable { { variable } } 
 	- Logic statements, loops { % if statement % } 
