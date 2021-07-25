@@ -57,7 +57,6 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
-
 --------------------------------------------
 
 # Jekyll Links 
