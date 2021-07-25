@@ -36,7 +36,7 @@ rss: rss
 show_excerpts: false # set to true to show excerpts on the homepage
 
 header_pages:
- - about.html
+ - about
 
 # Build settings
 theme: minima
