@@ -33,7 +33,7 @@ twitter_username: foxelas
 github_username:  foxelas
 rss: rss
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 header_pages:
  - about.html
