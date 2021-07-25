@@ -5,7 +5,7 @@ date:   2021-07-24 22:24:55 +0900
 categories: jekyll update
 ---
 
-# (Prequisites)
+# (Prerequisites)
 
 - install git https://git-scm.com/downloads
 - install ruby https://www.ruby-lang.org/en/documentation/installation/
