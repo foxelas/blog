@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Study Guide"
-date:   2021-11-12 22:24:55 +0900
+date:   2021-11-11 10:00:00 +0900
 categories: jekyll update
 ---
 
