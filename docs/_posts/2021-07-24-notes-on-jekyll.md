@@ -13,6 +13,8 @@ categories: jekyll update
 
 jekyll install list https://jekyllrb.com/docs/installation/ 
 
+-If errors appear during installation with bundler, try lowering the ruby version (currently using 2.7).
+
 # Preparation 
 
 - Create a new repository 
@@ -64,3 +66,11 @@ print_hi('Tom')
 - [jekyll-docs](https://jekyllrb.com/docs/home)
 - [jekyll-gh](https://github.com/jekyll/jekyll)
 - [jekyll-talk](https://talk.jekyllrb.com/)
+
+Update (2022/03/10): 
+- Use [polyglot](https://github.com/untra/polyglot) for multiple languages 
+- Minimize code with [jekyll-minifier](https://github.com/digitalsparky/jekyll-minifier)
+
+- If a page does not build / builds partially, maybe the specific plugins are not included in Github pages. 
+In such a case build the site locally and publish the _site folder.
+
